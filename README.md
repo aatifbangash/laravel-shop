@@ -1,6 +1,6 @@
 Laravel shop
 
-
+<pre>
 Users
     - Customers (front-end)
     - Admin (Back-end)
@@ -17,3 +17,4 @@ Shipping (id, location, shipping_rates)
 Orders (id, product_id, user_id, shipping_id, discount_id)
 Discounts (id, name, discount_code, discount_type, discount)
 Static Pages 
+</pre>
