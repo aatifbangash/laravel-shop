@@ -17,7 +17,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-# laravel-admin-html.zip
-# laravel-front-html.zip
+laravel-admin-html.zip
+laravel-shop.zip
 laravel-admin-html/
 laravel-front-html/
